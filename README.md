@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RyanUsher606/LeetCode/tree/master/0007-reverse-integer) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
