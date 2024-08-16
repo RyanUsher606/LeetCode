@@ -1,18 +1,12 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        boolean isPalindrome = false;
-        String reverseNum = "";
-
-        for(int i = Integer.toString(x).length() - 1; i >= 0; i--)
-        {
-            reverseNum += Integer.toString(x).charAt(i);
+        int temp = x;
+        int sum = 0;
+        while(x>0){
+            int rem = x % 10;
+            sum = (sum*10)+rem;
+            x = x/10;
         }
-
-        if(reverseNum.equals(Integer.toString(x)))
-        {
-            isPalindrome = true;
-        }
-
-        return isPalindrome;
+        return sum == temp;
     }
 }
