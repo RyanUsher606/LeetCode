@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RyanUsher606/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RyanUsher606/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/RyanUsher606/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RyanUsher606/LeetCode/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
