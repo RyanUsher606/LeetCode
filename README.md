@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RyanUsher606/LeetCode/tree/master/0001-two-sum) |
+| [0907-koko-eating-bananas](https://github.com/RyanUsher606/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/RyanUsher606/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Math
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/RyanUsher606/LeetCode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
