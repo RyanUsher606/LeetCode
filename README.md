@@ -14,6 +14,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RyanUsher606/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/RyanUsher606/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 <!---LeetCode Topics End-->
