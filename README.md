@@ -32,6 +32,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/RyanUsher606/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RyanUsher606/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0029-divide-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
