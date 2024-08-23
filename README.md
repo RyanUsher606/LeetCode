@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RyanUsher606/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/RyanUsher606/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Backtracking
@@ -39,9 +40,18 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/RyanUsher606/LeetCode/tree/master/0907-koko-eating-bananas) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
