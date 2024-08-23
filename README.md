@@ -14,6 +14,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RyanUsher606/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
+| [0592-fraction-addition-and-subtraction](https://github.com/RyanUsher606/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/RyanUsher606/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Backtracking
@@ -33,6 +34,7 @@
 | [0007-reverse-integer](https://github.com/RyanUsher606/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RyanUsher606/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0029-divide-two-integers) |
+| [0592-fraction-addition-and-subtraction](https://github.com/RyanUsher606/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/RyanUsher606/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
