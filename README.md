@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RyanUsher606/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/RyanUsher606/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/RyanUsher606/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/RyanUsher606/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/RyanUsher606/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/RyanUsher606/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/RyanUsher606/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/RyanUsher606/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/RyanUsher606/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Greedy
 |  |
 | ------- |
