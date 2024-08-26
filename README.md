@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RyanUsher606/LeetCode/tree/master/0402-remove-k-digits) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RyanUsher606/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/RyanUsher606/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RyanUsher606/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/RyanUsher606/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
