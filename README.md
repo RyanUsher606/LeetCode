@@ -36,6 +36,7 @@
 | [0007-reverse-integer](https://github.com/RyanUsher606/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RyanUsher606/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RyanUsher606/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1635-number-of-good-pairs](https://github.com/RyanUsher606/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/RyanUsher606/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
